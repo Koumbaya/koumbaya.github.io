@@ -57,7 +57,7 @@ export const fr: I18nType = {
     session: translationNeeded(en.authStrategyInfo.session)
   },
   userDropdown: {
-    myApps: 'Mes Applications',
+    myApps: 'لوحة القيادة',
     logout: 'Déconnexion'
   },
   sectionOverview: {
